@@ -1,2 +1,2 @@
 # Chung-sRepository
-Code
+Code for praticing
